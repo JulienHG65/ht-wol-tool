@@ -5,13 +5,13 @@ devices = [
 ]
 port=8080
 intervalPing = 30
+//================================================
+
+//======================CODE======================
 const ping = require('ping');
 const wol = require('wol'); 
 const express = require('express')
 const app = express()
-//================================================
-
-//======================CODE======================
 function pg(host){//function to ping host
     ping.sys.probe(host);
 
