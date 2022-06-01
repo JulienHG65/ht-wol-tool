@@ -1,0 +1,24 @@
+{
+  "name": "ht-wol-tool",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JulienHG65",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "ping": "^0.4.2",
+    "wol": "^1.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienHG65/ht-wol-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JulienHG65/ht-wol-tool/issues"
+  },
+  "homepage": "https://github.com/JulienHG65/ht-wol-tool#readme"
+}
