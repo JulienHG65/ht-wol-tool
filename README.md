@@ -51,7 +51,7 @@ Example to start PC1 :
 ```
 http://127.0.0.1:port/host/pc1
 ```
-### Launch 1 computer
+### Launch all computers
 To send WakeOnLan Magic packet to all hosts, with web browser, use this url : 
 ```
 http://127.0.0.1:port/all
