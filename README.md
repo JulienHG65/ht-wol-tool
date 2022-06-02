@@ -2,12 +2,12 @@
 It's tool to send WakeOnLan packet with HTTP GET request.
 
 ## Summary
-[test](### Windows) 
+[Install NodeJS and NPM](#InstallNJSNPM) 
 
 ## Requirements
 Runs last version of NodeJS and NPM
 
-## Install NodeJS and NPM
+## Install NodeJS and NPM <a id="InstallNJSNPM"></a>
 ### Windows
 Download last LTS version with official website : https://nodejs.org/en/download/
 ### Linux Debian
