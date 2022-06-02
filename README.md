@@ -3,14 +3,23 @@ It's tool to send WakeOnLan packet with HTTP GET request.
 
 ## Summary
 [Requirements](#Requirements) 
+
 [Install NodeJS and NPM](#InstallNJSNPM) 
+
     -[Windows](#Win) 
+
     -[Linux Debian](#Deb) 
+
 [Install ht-wol-tool](#InstallHWT) 
+
 [Configuring](#Configuring) 
+
 [Start and use](#StartUse) 
+
     -[Launch 1 computer](#LaunchOne) 
+
     -[Launch all computers](#LaunchAll) 
+    
 
 ## Requirements <a id="Requirements"></a>
 Runs last version of NodeJS and NPM
